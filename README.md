@@ -1,5 +1,7 @@
 # LinkedIn Post Exporter
 
+[![Support me on Patreon](https://img.shields.io/badge/Patreon-Support%20my%20work-FF424D?style=flat&logo=patreon&logoColor=white)](https://www.patreon.com/AndersBjarby)
+
 A Python tool to export your LinkedIn posts including images and videos. LinkedIn allows downloading articles but not regular posts - this tool fills that gap.
 
 ## Features
